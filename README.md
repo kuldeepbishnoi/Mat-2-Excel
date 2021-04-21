@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1Mm-FAoBbgTS_vKPD2F2Wzcr0f_cwxxuk/view?usp=shari
 
 
 # Requirement:
-'''
+```
 - python 3.8 
 {Note: There is no need for any manual installation of libraries. All required libraries will be automatically installed using python code}
-'''
+```
